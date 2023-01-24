@@ -1,9 +1,25 @@
-# Heroku তে হোস্ট করতে যা যা করতে হবে আপনাকে। 
+# React Redux project server 
 
-1. এই রিপোজিটরি ক্লোন করুন।
-2. .git folder ডিলিট দিন। 
-3. আপনার গিটহাবে আপ্লোড করুন এই কোড গুলো। 
-4. [Heroku](https://dashboard.heroku.com/) তে গিয়ে নতুন প্রজেক্ট তৈরি করুন।
-5. Deployment method এ Github নির্বাচন করুন।
-6. আপনার ব্রাঞ্চ সিলেক্ট করুন।
-7. Deploy branch এ ক্লিক করে ডেপ্লয় করুন। 
+<!-- HOW TO RUN -->
+
+## How to run
+
+Please follow the below instructions to run this branch in your machine:
+
+1. Clone this repository -
+    ```sh
+    git clone https://github.com/programmertowheed/React-Redux-Project-Server
+    ```
+2. Go to the cloned project directory
+    ```sh
+    cd React-Redux-Project-Server
+    ```
+3. Install dependencies
+    ```sh
+    npm i
+    ```
+4. Install VS Code [Live Server plugin](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) & start the server.
+    ```sh
+    npm start
+    ```
+5. Your app should be available in http://localhost:9000
