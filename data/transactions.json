@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Salary from Google",
+    "amount": 1000000,
+    "type": "income",
+    "id": 1
+  },
+  {
+    "name": "Family Expenses",
+    "amount": 200000,
+    "type": "expense",
+    "id": 2
+  },
+  {
+    "name": "House rent",
+    "amount": 5000,
+    "type": "income",
+    "id": 3
+  },
+  {
+    "name": "Car rent",
+    "amount": 2000,
+    "type": "income",
+    "id": 4
+  },
+  {
+    "name": "Expense 1",
+    "amount": 50000,
+    "type": "expense",
+    "id": 5
+  },
+  {
+    "name": "Income 1",
+    "amount": 500,
+    "type": "income",
+    "id": 6
+  },
+  {
+    "name": "Income 2",
+    "amount": 555,
+    "type": "income",
+    "id": 8
+  },
+  {
+    "name": "Expense 2",
+    "amount": 25000,
+    "type": "expense",
+    "id": 9
+  },
+  {
+    "name": "Income 3",
+    "amount": 5000,
+    "type": "income",
+    "id": 10
+  },
+  {
+    "name": "Income 4",
+    "amount": 6000,
+    "type": "income",
+    "id": 11
+  },
+  {
+    "name": "Expense 4",
+    "type": "expense",
+    "amount": 5000,
+    "id": 12
+  },
+  {
+    "name": "Expense 5",
+    "type": "expense",
+    "amount": 500,
+    "id": 13
+  },
+  {
+    "name": "Expense 6",
+    "type": "expense",
+    "amount": 500,
+    "id": 14
+  },
+  {
+    "name": "Expense 7",
+    "type": "expense",
+    "amount": 400,
+    "id": 15
+  },
+  {
+    "name": "Expense 8",
+    "type": "expense",
+    "amount": 350,
+    "id": 16
+  },
+  {
+    "name": "Income 5",
+    "type": "income",
+    "amount": 1000,
+    "id": 17
+  },
+  {
+    "name": "Income 6",
+    "type": "income",
+    "amount": 1200,
+    "id": 18
+  },
+  {
+    "name": "Income 7",
+    "type": "income",
+    "amount": 1670,
+    "id": 19
+  },
+  {
+    "name": "Expense 8",
+    "type": "expense",
+    "amount": 340,
+    "id": 20
+  },
+  {
+    "name": "Income 7",
+    "type": "income",
+    "amount": 1562,
+    "id": 21
+  },
+  {
+    "name": "Income 8",
+    "type": "income",
+    "amount": 505,
+    "id": 22
+  },
+  {
+    "name": "Expense 9",
+    "type": "expense",
+    "amount": 5815,
+    "id": 23
+  },
+  {
+    "name": "Income 10",
+    "type": "income",
+    "amount": 41125,
+    "id": 24
+  },
+  {
+    "name": "Expense 11",
+    "type": "expense",
+    "amount": 815,
+    "id": 25
+  },
+  {
+    "name": "Income 11",
+    "type": "income",
+    "amount": 8151,
+    "id": 26
+  },
+  {
+    "name": "Expense 12",
+    "type": "expense",
+    "amount": 581581,
+    "id": 27
+  },
+  {
+    "name": "Income 12",
+    "type": "income",
+    "amount": 1581,
+    "id": 28
+  }
+]
