@@ -8,7 +8,7 @@ Please follow the below instructions to run this branch in your machine:
 
 1. Clone this repository -
     ```sh
-    git clone https://github.com/programmertowheed/React-Redux-Project-Server
+    git clone https://github.com/programmertowheed/React-Redux-Project-Server.git
     ```
 2. Go to the cloned project directory
     ```sh
